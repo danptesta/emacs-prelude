@@ -1,0 +1,86 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/" . "daniel/")
+ ("/Users/daniel/Projects/clojure-workspace/purely-functional/diamond-kata/test/" . "diamond_kata/")
+ ("/Users/daniel/Projects/clojure-workspace/purely-functional/diamond-kata/src/" . "diamond_kata/")
+ ("/Users/daniel/Projects/clojure-workspace/purely-functional/diamond-kata/" . "test/")
+ ("/Users/daniel/Projects/clojure-workspace/brave-clojure/clojure-noob/src/" . "clojure_noob/")
+ ("/Users/daniel/Projects/clojure-workspace/brave-clojure/clojure-noob/" . "src/")
+ ("/Users/daniel/Projects/clojure-workspace/brave-clojure/" . "clojure-noob/")
+ ("/Users/daniel/Projects/clojure-workspace/purely-functional/exploratorium/src/" . "exploratorium/")
+ ("/Users/daniel/Projects/clojure-workspace/purely-functional/exploratorium/" . "src/")
+ ("/Users/daniel/Projects/clojure-workspace/purely-functional/" . "diamond-kata/")
+ ("/Users/daniel/Projects/clojure-workspace/" . "purely-functional/")
+ ("/Users/daniel/Projects/" . "clojure-workspace/")
+ ("/Users/daniel/.emacs.d/" . "customizations/")
+ ("/Users/daniel/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/daniel/.emacs.d/"
+ "/Users/daniel/.lein/"
+ "/Users/daniel/Projects/clojure-workspace/purely-functional/diamond-kata/test/diamond_kata/"
+ "/Users/daniel/Projects/clojure-workspace/purely-functional/diamond-kata/src/diamond_kata/"
+ "/Users/daniel/Projects/clojure-workspace/brave-clojure/clojure-noob/src/clojure_noob/"
+ "/Users/daniel/.emacs.d/customizations/"
+ "/Users/daniel/Projects/clojure-workspace/purely-functional/exploratorium/src/exploratorium/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "README.md"
+ "init.el"
+ "profiles.clj"
+ "core_test.clj"
+ "core.clj"
+ "ui.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/daniel/.emacs.d/" (22756 17823 0 0) "themes/" "README.md" "projectile-bookmarks.eld" "init.el" "ido.last" "elpa/" "customizations/" "cider-history" "backups/" "auto-save-list/" ".smex-items" ".recentf" ".gitignore" "../" "./")
+
+ ("/Users/daniel/.lein/" (22757 8543 0 0) "self-installs/" "repl-history" "profiles.clj.bak" "profiles.clj" "indices/" "../" "./")
+
+ ("/Users/" (22598 62975 0 0) "Shared/" "sfo/" "macuser/" "daniel/" ".localized" "../" "./")
+
+ ("/Users/daniel/" (22757 8912 0 0) "tmp/" "testad/" "soapui-settings.xml" "SoapUI/" "RubymineProjects/" "Public/" "Projects/" "Pictures/" "Perforce/" "p4-workspaces/" "Music/" "Movies/" "maven/" "Library/" "kerberos/" "gowork/" "Google Drive/" "git/" "Downloads/" "Documents/" "docker/" "Desktop/" "default-soapui-workspace.xml" "clojure-1.8.0/" "Box Sync/" "bin/" "Applications/" "AOE Dev~2.sql" "ant/" ".zshrc" ".zsh_history" ".zsh-update" ".zcompdump-SFOC02Q114CG8WP-5.2" ".viminfo" ".Trash/" ".subversion/" ".ssh/" ".sqldeveloper/" ".soapuios/" ".profile" ".p4tickets" ".p2/" ".oracle_jre_usage/" ".oh-my-zsh/" ".npm/" ".m2/" ".local/" ".lesshst" ".lein/" ".jenv/" ".httpie/" ".gradle/" ".gnupg/" ".gitconfig" ".gem/" ".emacs.d/" ".eclipse/" ".DS_Store" ".docker/" ".dbvis/" ".cups/" ".config/" ".CFUserTextEncoding" ".cache/" ".bundle/" ".bash_sessions/" ".bash_profile" ".bash_history" ".atom/" "../" "./")
+
+ ("/Users/daniel/Projects/clojure-workspace/purely-functional/diamond-kata/" (22756 18006 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" "CHANGELOG.md" ".nrepl-port" ".hgignore" ".gitignore" "../" "./")
+
+ ("/Users/daniel/Projects/clojure-workspace/purely-functional/diamond-kata/src/diamond_kata/" (22755 51594 0 0) "core.clj" "../" "./")
+
+ ("/Users/daniel/.emacs.d/customizations/" (22754 50639 0 0) "ui.el" "shell-integration.el" "setup-js.el" "setup-clojure.el" "navigation.el" "misc.el" "elisp-editing.el" "editing.el" "../" "./")
+
+ ("/Users/daniel/Projects/clojure-workspace/purely-functional/diamond-kata/test/diamond_kata/" (22755 51399 0 0) "core_test.clj" "../" "./")
+
+ ("/Users/daniel/Projects/clojure-workspace/purely-functional/diamond-kata/test/" (22755 50152 0 0) "diamond_kata/" "../" "./")
+
+ ("/Users/daniel/Projects/clojure-workspace/purely-functional/diamond-kata/src/" (22755 50152 0 0) "diamond_kata/" "../" "./")
+
+ ("/Users/daniel/Projects/clojure-workspace/purely-functional/" (22755 50152 0 0) "video1.clj" "my-project-template/" "globe/" "exploratorium/" "diamond-kata/" "clojureintro/" "../" "./")
+
+ ("/Users/daniel/Projects/clojure-workspace/brave-clojure/clojure-noob/src/clojure_noob/" (22754 51313 0 0) "core.clj" "../" "./")
+
+ ("/Users/daniel/Projects/clojure-workspace/brave-clojure/clojure-noob/" (22754 54821 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" "CHANGELOG.md" ".hgignore" ".gitignore" "../" "./")
+
+ ("/Users/daniel/Projects/clojure-workspace/brave-clojure/clojure-noob/src/" (22754 38508 0 0) "clojure_noob/" "../" "./")
+
+ ("/Users/daniel/Projects/clojure-workspace/brave-clojure/" (22754 38508 0 0) "clojure-noob/" "../" "./")
+
+ ("/Users/daniel/Projects/clojure-workspace/" (22754 38471 0 0) "purely-functional/" "my-proj/" "my-app/" "clojure-koans/" "brave-clojure/" "../" "./")
+
+ ("/Users/daniel/Projects/clojure-workspace/purely-functional/exploratorium/src/exploratorium/" (22741 15539 0 0) "core.clj" "../" "./")
+
+ ("/Users/daniel/Projects/clojure-workspace/purely-functional/exploratorium/src/" (22741 15539 0 0) "exploratorium/" "../" "./")
+
+ ("/Users/daniel/Projects/clojure-workspace/purely-functional/exploratorium/" (22750 61622 0 0) "TUTORIAL~" "TUTORIAL" "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "foo~" "foo" "doc/" "CHANGELOG.md" ".lein-repl-history" ".hgignore" ".gitignore" "#TUTORIAL#" "../" "./")
+
+ ("/Users/daniel/Projects/" (22544 14422 0 0) "testad/" "soapui-projects/" "slayer/" "public-workspace/" "namu_es_pocs/" "KeikoWorkspace/" "EclipseCepWorkspace-Condor/" "EclipseCepWorkspace/" "danptesta/" "clojure-workspace/" ".DS_Store" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
